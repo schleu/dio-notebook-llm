@@ -1,5 +1,5 @@
 # dio-notebook-llm
-
+https://notebooklm.google.com/notebook/149a2915-3442-45fe-986b-09c3c10c37f8
 
 ### Curadoria de Fontes
 - https://youtu.be/HcDJdKfm5nA
